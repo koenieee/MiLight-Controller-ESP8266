@@ -2,6 +2,7 @@
 Title:    Milight / LimitlessLED LED Strip Network Library for Arduino
 Authors:  Nathan Holmes <maverick@drgw.net>, Colorado, USA
           Michael Petersen <railfan@drgw.net>, Colorado, USA
+		  Koen van der kruk <koenvdkruk@gmail.com>, Utrecht, Netherlands
 File:     Milight.cpp
 License:  GNU General Public License v3
 
@@ -9,7 +10,8 @@ LICENSE:
     Copyright (C) 2015 Nathan Holmes
     
     The latest source can be obtained from ISE's Github repository here:
-    https://github.com/IowaScaledEngineering/Milight
+	Arduino: https://github.com/IowaScaledEngineering/Milight
+	ESP8266: https://github.com/koen-github/MiLight-Controller-ESP8266
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
