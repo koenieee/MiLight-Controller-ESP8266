@@ -10,8 +10,7 @@ LICENSE:
     Copyright (C) 2015 Nathan Holmes
     
     The latest source can be obtained from ISE's Github repository here:
-	Arduino: https://github.com/IowaScaledEngineering/Milight
-	ESP8266: https://github.com/koen-github/MiLight-Controller-ESP8266
+
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
